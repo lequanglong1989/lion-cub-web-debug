@@ -1,9 +1,8 @@
-# Lion Cub Web Debug — Test Build
+# Lion Cub Web Debug
 
-- Project baseline: **V78**
-- Godot: **4.7.2**
-- Source baseline: `Lion_Cub_V78_Current_Project_VIEWPORT_KEEP(1).zip`
-- Web preset: **Web Debug**
-- Runtime smoke test: **PASS**
-- Web export: **PASS**
-- Purpose: verify the GitHub Push → Actions → Pages delivery pipeline.
+- Project build: **V80**
+- Source repository: `lequanglong1989/lion-cub-source`
+- Source commit: `39805434adef39417ccde16627610aa961c66acf`
+- Godot: 4.7.2
+- Web preset: Web Debug
+- Deployment source: private `main`
