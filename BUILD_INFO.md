@@ -1,6 +1,6 @@
 # Lion Cub Web Debug
 
-- Project build: **V84**
+- Project build: **V85**
 - Source commit: 
 - Godot: 4.7.2
 - Web preset: Web Debug
