@@ -1,5 +1,11 @@
 # Lion Cub Web Debug
 
-Web Debug build generated from the Lion Cub Godot 4.7.2 project.
+This repository is a **generated Web Debug Pages host only**.
 
-This repository is for browser testing only; the main project/source remains separate.
+The private source of truth is:
+
+`lequanglong1989/lion-cub-source`
+
+The source repository builds the Godot 4.7.2 Web export and publishes the generated files here automatically.
+
+**Do not edit or develop the game from this repository.**
